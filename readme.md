@@ -24,8 +24,8 @@
 
 
 ### Ноутбук
-Вы можете просмотреть ноутбук с помощью сервиса nbviewer.
-Ноутбук русская версия: [тут](https://nbviewer.org/github/PaulSpirin/Tide_Analysis/blob/main/Tide.ipynb)
+Вы можете просмотреть ноутбук с помощью сервиса nbviewer.  
+Ноутбук русская версия: [тут](https://nbviewer.org/github/PaulSpirin/Kaggle_Competition.Forecasting_Mini-Course_Sales/blob/main/Forecasting_course-sales.ipynb)  
 Notebook English version: [here](https://nbviewer.org/github/PaulSpirin/Tide_Analysis/blob/main/Tide.ipynb)
 
 ### Источник данных
